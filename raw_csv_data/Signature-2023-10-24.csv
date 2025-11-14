@@ -1,0 +1,5 @@
+id,name,description
+4,=,"Membre de notre Province, vivant de façon stable dans une autre Province sans y être  appliqué"
+3,*,"Membre d'une autre Province, vivant de façon stable dans notre Province sans y être  appliqué"
+2,-,"Membre de notre Province, Appliqué à une autre Province"
+1,+,"Membre d'une autre Province, Appliqué à notre Province"
